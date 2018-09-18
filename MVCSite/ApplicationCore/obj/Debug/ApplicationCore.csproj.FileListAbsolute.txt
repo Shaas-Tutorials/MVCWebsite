@@ -1,0 +1,17 @@
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\bin\Debug\ApplicationCore.dll.config
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\bin\Debug\ApplicationCore.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\bin\Debug\ApplicationCore.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\bin\Debug\DomainModels.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\bin\Debug\EntityFramework.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\bin\Debug\DomainModels.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\bin\Debug\DomainModels.dll.config
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\bin\Debug\EntityFramework.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\obj\Debug\ApplicationCore.csprojResolveAssemblyReference.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\obj\Debug\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\obj\Debug\ApplicationCore.csproj.CopyComplete
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\obj\Debug\ApplicationCore.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\obj\Debug\ApplicationCore.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\obj\Debug\ApplicationCore.Migrations.initial.resources
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\ApplicationCore\obj\Debug\ApplicationCore.csproj.GenerateResource.cache

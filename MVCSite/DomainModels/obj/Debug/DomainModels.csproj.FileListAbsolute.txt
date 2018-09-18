@@ -1,0 +1,11 @@
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\DomainModels\bin\Debug\DomainModels.dll.config
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\DomainModels\bin\Debug\DomainModels.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\DomainModels\bin\Debug\DomainModels.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\DomainModels\bin\Debug\EntityFramework.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\DomainModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\DomainModels\bin\Debug\EntityFramework.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\DomainModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\DomainModels\obj\Debug\DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\DomainModels\obj\Debug\DomainModels.csproj.CopyComplete
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\DomainModels\obj\Debug\DomainModels.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\MVCSite\DomainModels\obj\Debug\DomainModels.pdb
